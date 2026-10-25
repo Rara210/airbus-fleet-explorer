@@ -1,0 +1,19 @@
+AIRBUS FLEET EXPLORER — VERSION 2
+==================================
+
+OUVRIR SUR WINDOWS
+1. Téléchargez le ZIP puis faites clic droit > Extraire tout.
+2. Ouvrez le dossier extrait.
+3. Double-cliquez sur index.html.
+
+Le site fonctionne sans installer de logiciel. Une connexion Internet est nécessaire pour charger les photos Airbus intégrées.
+
+PUBLIER GRATUITEMENT
+Vous pourrez déposer index.html dans un dépôt GitHub et activer GitHub Pages dans Settings > Pages. Guide officiel :
+https://docs.github.com/en/pages/quickstart
+
+IMPORTANT
+Projet indépendant non affilié à Airbus. Les photos sont chargées depuis le site officiel Airbus ; vérifiez les conditions de réutilisation avant de republier le site publiquement. Les caractéristiques affichées sont des repères maximaux/indicatifs et doivent être vérifiées sur les fiches officielles.
+Sources :
+https://www.airbus.com/en/products-services/commercial-aircraft/passenger-aircraft
+https://www.aircraft.airbus.com/en/aircraft
